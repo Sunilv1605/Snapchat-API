@@ -1,0 +1,5 @@
+{
+    "require": {
+        "picaboooo/snapchatsdk": "^1.0"
+    }
+}

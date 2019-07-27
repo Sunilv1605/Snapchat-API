@@ -1,0 +1,30 @@
+{
+    "name": "picaboooo/snapchatsdk",
+    "description": "Snapchat private API for PHP",
+    "type": "library",
+    "license": "proprietary",
+    "keywords": [
+        "Snapchat",
+        "Private",
+        "API",
+        "PHP"
+    ],
+    "support": {
+        "issues": "https://github.com/Picaboooo/SnapchatSDK/issues",
+        "wiki": "https://github.com/Picaboooo/SnapchatSDK/wiki",
+        "source": "https://github.com/Picaboooo/SnapchatSDK/"
+    },
+    "autoload": {
+        "psr-4": {
+            "Snapchat\\": "src/Snapchat/",
+            "Picaboooo\\": "src/Picaboooo/"
+        }
+    },
+    "require": {
+        "ext-json": "*",
+        "ext-openssl": "*",
+        "ext-zip": "*",
+        "guzzlehttp/guzzle": "^6.2",
+        "netresearch/jsonmapper": "v1.4.0"
+    }
+}
