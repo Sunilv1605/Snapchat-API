@@ -190,16 +190,19 @@ To logout of Snapchat, call the logout method on the Snapchat instance.
 $snapchat->logout();
 ```
 
-Documentation
+# Documentation
 At the moment, there's no proper documentation. However, the above gives you an overview of what the library can do.
 
 Take a look at the examples folder, as well as the methods available in the SnapchatClient class to see what else can be done.
 
-Credits
-liamcottle
-LateAlways
-picaboooo
-Legal
+# Credits
+- liamcottle
+- LateAlways
+- picaboooo
+- Legal
+
+# DISCLAIMERS
+
 The name "Snapchat" is a copyright of Snapchat™, Inc.
 
 This project is in no way affiliated with, authorized, maintained, sponsored or endorsed by Snapchat™, Inc or any of its affiliates or subsidiaries.
